@@ -1,0 +1,9 @@
+# CSV To vCard
+
+A simple tool to convert Outlook 2016 CSV exports to a bunch of vCards.
+
+## Example Usage
+
+```bash
+~# ./csvtovcard.py input.csv ./output-dir
+```
